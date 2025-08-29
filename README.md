@@ -108,7 +108,7 @@ The frontend communicates with the backend via HTTP POST requests to fetch produ
 
 1. **Clone the repository:**
    ```bash
-   git clone <repository-url>
+   git clone https://github.com/harshiteuro/Unified-Wishlist.git
    cd unified-wishlist
    ```
 
