@@ -2,6 +2,8 @@
 
 A cross-platform wishlist application that allows users to save and track items from various online stores. The app fetches product information from URLs and provides a centralized place to manage your wishlist with price tracking capabilities.
 
+[![Watch the video](https://img.youtube.com/vi/OoZMDWybPdg/0.jpg)](https://www.youtube.com/watch?v=OoZMDWybPdg)
+
 ## Table of Contents
 
 - [What is Unified Wishlist?](#what-is-unified-wishlist)
